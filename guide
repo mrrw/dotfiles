@@ -1,0 +1,77 @@
+#########################################################
+#							#
+#   M    M   AA   RRRRR  RRRRR    OOOO  W     W  SSSS   #
+#   MM  MM  A  A  R    R R    R  O    O W  W  W S       #
+#   M MM M  AAAA  RRRRR  RRRRR   O    O  W W W   SSSS   #
+#   M    M A    A R   R  R    R  O    O  W W W       S  #
+#   M    M A    A R    R R     R  OOOO    W W   SSSSS   #
+#							#
+#	    GGGG  U    U  IIII  DDDD   EEEEEE		#
+#          G      U    U   II   D   D  E		#
+#          G  GGG U    U   II   D    D EEE		#
+#          G    G U    U   II   D   D  E		#
+#           GGGG   UUUU   IIII  DDDD   EEEEEE		#
+#							#
+#########################################################
+
+
+#  home/marrow
+#  X11
+#
+#  Shells:
+#  	bash, which is a lame version of zsh
+#  	zsh
+#
+#  Window Managers:
+#  	i3
+#  	xmonad  -- see arcwiki.  Learn Haskell.
+#  
+#  File Managers:
+#  	NONE.  Use the command line, become awesome.
+#
+#  Terminal Emulators:
+#  	xterm
+#  	urxvt
+#
+#  Editors:
+#  	vim	[installed]
+#  	emacs, but not really.  It's huge.
+#
+#  Terminal Programs:
+#       sc     (a terminal-based spreadsheet)
+#       htop   (process viewer)
+#       cmus   (music player)
+#
+#
+
+
+
+#########################################################
+###			#################################
+###   Useful commands  	#################################
+###			#################################
+#########################################################
+
+#####	Find all files w/ any name
+#
+# $ find [starting directory] -name [file/dir name]
+#
+# Example:
+# $ find / -name guide
+#
+#
+#
+#--------------------------------------------------------------#
+#--  SOME PROGRAMS --------------------------------------------#
+#--------------------------------------------------------------#
+
+# tmux, ranger, w3m, vim
+# neofetch, htop
+# powerline, lolcat
+
+
+#--------------------------------------------------------------#
+#--  LANGUAGES THAT I HAVE ------------------------------------#
+#--------------------------------------------------------------#
+
+# ruby, Haskell, C, C++, Python, perl

@@ -28,6 +28,7 @@
 #  
 #  File Managers:
 #  	NONE.  Use the command line, become awesome.
+#   Actually, Ranger.
 #
 #  Terminal Emulators:
 #  	xterm
@@ -41,8 +42,18 @@
 #       sc     (a terminal-based spreadsheet)
 #       htop   (process viewer)
 #       cmus   (music player)
-#
-#
+#       w3m
+#       neofetch
+#       conky
+
+#  Other awesome programs:
+#       git
+#       mutt
+#       feh
+#       openSSH
+#       dconf
+#       ly
+#       xcape
 
 
 
